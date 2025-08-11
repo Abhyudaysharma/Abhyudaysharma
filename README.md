@@ -19,9 +19,10 @@
 
 </div>
 <div align="center"> 
- <a href="mailto:smeet4093@gmail.com">
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=smeet4093@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
   </a>
+
   <a href="https://linkedin.com/in/abhyuday-sharma-4bb15420a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
