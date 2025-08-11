@@ -15,7 +15,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Abhyudaysharma/Abhyudaysharma/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **My Git commits are just me arguing with myself in timestamps.**
 
 </div>
 <div align="center"> 
@@ -52,12 +52,24 @@
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/?user=Abhyudaysharma&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Abhyudaysharma&count_private=true&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats"/>
+<img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhyudaysharma&theme=react&border_radius=10"
+    height="160"
+    style="display:inline-block;margin:0 8px;"
+    alt="GitHub Streak"/>
 </div>
+
+<!--<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Abhyudaysharma&count_private=true&theme=react&border_radius=10" alt="GitHub Stats"/>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhyudaysharma&theme=react&border_radius=10" alt="GitHub Streak"/>
+  <br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyudaysharma&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+    -->
+</div>
+
+
 
 <br/><br/>
 <hr/>
