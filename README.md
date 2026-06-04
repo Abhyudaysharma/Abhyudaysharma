@@ -68,7 +68,9 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyudaysharma&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
     -->
 </div>
+## 🎮 Space Shooter 🎮
 
+![Space Shooter Game](game.gif)
 
 
 <br/><br/>
